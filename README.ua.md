@@ -20,6 +20,8 @@
 ---
 
 ### 📊 Ключові проєкти
+
+* **[SQL HR Analytics and Database Design (MySQL)](https://github.com/NataliiaNovikova/SQL-HR-Analytics-and-Database-Design)** — Складні SQL-запити (CTE, ROW_NUMBER(), динамічні зведені таблиці) на базі 300+ тис. записів співробітників для аналізу динаміки зарплат, а також проєктування нормалізованої 3-табличної схеми БД (DDL/DML) та аудит дублікатів.
 * **[IKEA Furniture Price Predictor & Market Analytics](https://github.com/NataliiaNovikova/ikea-project)** — Повний цикл EDA, очищення даних, перевірка статистичних гіпотез ($p < 0.05$) та побудова ML-моделі Random Forest ($R^2 \approx 0.74$) для прогнозування вартості меблів.
 * **[Maven Hospital Healthcare Analytics](https://github.com/NataliiaNovikova/maven-hospital-powerbi-analytics)** — Мультисторінковий Power BI дашборд на базі Star Schema для аналізу $101.5M доходу, 27,891 візитів, страхового покриття та пікових навантажень клініки.
 
