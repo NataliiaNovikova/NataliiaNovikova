@@ -1,4 +1,4 @@
-🌐 **Language:** [Українська](README.uk.md) | English
+🌐 **Language:** [Українська](README.ua.md) | English
 
 # Hi, I'm Nataliia Novikova 👋
 ### Data Analyst | BI Analyst
