@@ -3,7 +3,9 @@
 # Hi, I'm Nataliia Novikova 👋
 ### Data Analyst | BI Analyst
 
-Data Analyst with practical experience in data cleaning, statistical hypothesis testing, SQL/DAX metrics development, and predictive modeling. My background in visual design serves as a unique advantage in Business Intelligence — allowing me to craft clean, intuitive, and user-friendly dashboards that turn complex data into actionable business stories.
+I turn raw, messy datasets into clear business insights, automated reports, and predictive models. My workflow covers the full analytical cycle — from querying databases in SQL and cleaning data in Python to designing intuitive, decision-ready dashboards in Power BI. 
+
+Focused on helping product and service teams uncover hidden patterns, optimize routine reporting, and make confident data-driven decisions.
 
 📍 **Location:** Dnipro, Ukraine (Open to Remote / Hybrid)
 
