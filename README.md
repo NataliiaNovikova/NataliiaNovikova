@@ -20,6 +20,7 @@ Focused on helping product and service teams uncover hidden patterns, optimize r
 ---
 
 ### 📊 Featured Projects
+* **[SQL HR Analytics and Database Design (MySQL)](https://github.com/NataliiaNovikova/SQL-HR-Analytics-and-Database-Design)** — Complex SQL querying (CTEs, ROW_NUMBER(), dynamic pivot tables) across 300k+ employee records to analyze payroll dynamics and leadership succession, alongside normalized 3-table schema design (DDL/DML) and duplicate data auditing.
 * **[IKEA Furniture Price Predictor & Market Analytics](https://github.com/NataliiaNovikova/ikea-project)** — End-to-end EDA, data cleaning, statistical testing ($p < 0.05$), and Random Forest regression model ($R^2 \approx 0.74$) to predict furniture prices.
 * **[Maven Hospital Healthcare Analytics](https://github.com/NataliiaNovikova/maven-hospital-powerbi-analytics)** — Multi-page Power BI dashboard built on a Star Schema analyzing $101.5M in revenue, 27,891 visits, insurance coverage, and peak clinical workloads.
 
